@@ -1,4 +1,5 @@
-title: Streamdata Gallery Prescriptions
+title: Streamdata API Gallery - Prescriptions
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
 url: prescriptions.streamdata.gallery
 tag: Prescriptions
 markdown: kramdown
